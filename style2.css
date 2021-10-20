@@ -1,0 +1,38 @@
+*{
+    box-sizing:content-box;
+    color: adjust 29px;
+    border-color: #cc2b8e;
+    border-radius: 3px;
+    padding-left:4px;
+}
+
+body{
+    ;
+    font-size:medium;
+    padding:8px;
+    margin:40px 50px;
+    background-color: rgba(223, 68, 29, 0.432);
+    border-collapse: inherit;
+}
+
+
+.container{
+             background-position:30%;
+             background-color:rgba(233, 77, 220, 0.493);        
+             border:3px solid rgba(236, 4, 54, 0.384);
+             border-radius:10px;
+}
+.main{
+    text-align: center;
+    text-rendering: optimizeSpeed;
+    font-size: xx-large;
+    border-color: rgb(61, 158, 158);
+}
+input [type="submit"]:hover{
+     background-color: rgba(255, 15, 15, 0.952);
+      border:3px;
+      color:aliceblue;
+      cursor:pointer;
+      hanging-punctuation:initial;
+}
+
